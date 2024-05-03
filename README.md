@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal portfolio.**
+ 🔭 I’m currently working on **a personal portfolio.** You can check the progress <a href="https://robertkibet.com/"> **here.** </a>
  
  🌱 I’m currently learning **Docker, Supabase, AWS, Redis**
  
