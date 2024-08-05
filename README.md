@@ -3,7 +3,7 @@
 </div>
 
 # Robert Kibet
-## Full-Stack Developer | Kenya
+## Software Developer | Kenya
 
 ### About Me
 🔭 Currently developing: A personal portfolio - [View Progress](https://robertkibet.com/)
