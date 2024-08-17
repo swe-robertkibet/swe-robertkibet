@@ -10,7 +10,7 @@
 🌱 Expanding skills in: Docker, Supabase, AWS, Redis
 
 ### Professional Experience
-Lead Backend Developer at [Virtual Cyber Support](https://dev.virtualcyber.co.ke/)
+Software Developer at [Virtual Cyber Support](https://dev.virtualcyber.co.ke/)
 - Implemented secure payment systems using Safaricom's Daraja API
 - Developed robust backend solutions with Node.js, Express.js, and MongoDB
 - Contributed to frontend development
