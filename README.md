@@ -6,7 +6,7 @@
 ## Software Developer | Kenya
 
 ### About Me
-🔭 Currently developing: A personal portfolio - [View Progress](https://robertkibet.com/)
+🔭 Currently learning: GO
 🌱 Expanding skills in: Docker, Supabase, AWS, Redis
 
 ### Professional Experience
