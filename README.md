@@ -6,7 +6,8 @@
 ## Software Developer | Kenya
 
 ### About Me
-🔭 Currently learning: GO
+🔭 Currently learning: GO 
+
 🌱 Expanding skills in: Docker, Supabase, AWS, Redis
 
 ### Professional Experience
