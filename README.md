@@ -6,7 +6,7 @@
 ## Software Developer | Kenya
 
 ### About Me
-🔭 Currently learning: GO 
+🔭 Currently learning: GO . <a href="https://github.com/swe-robertkibet/golang-playground" >Follow Along </a>
 
 🌱 Expanding skills in: Docker, Supabase, AWS, Redis
 
