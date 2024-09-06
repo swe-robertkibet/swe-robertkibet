@@ -25,7 +25,7 @@ Software Developer at [Virtual Cyber Support](https://dev.virtualcyber.co.ke/)
 </a>
 
 ### Technologies & Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,docker,aws" alt="Technologies and Tools"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,golang,javascript,typescript,express,mongodb,nextjs,mysql,docker,aws" alt="Technologies and Tools"/>
 
 ---
 
