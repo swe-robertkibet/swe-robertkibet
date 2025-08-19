@@ -1,5 +1,9 @@
-<div align="right">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=swe-robertkibet.profile" alt="visitor badge"/>
-</div>
+# Hi, I'm Robert 👋  
 
-> "The most important part of writing a program is designing the data structures. The second most important part is breaking the various code pieces down." - Bill Gates
+Software Engineer passionate about building clean, scalable, and impactful solutions.  
+
+---
+
+> "The most important part of writing a program is designing the data structures.  
+> The second most important part is breaking the various code pieces down."  
+> — Bill Gates
